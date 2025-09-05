@@ -1,0 +1,8 @@
+.hero {
+  background: linear-gradient(180deg, rgba(13,110,253,0.08), rgba(13,110,253,0.02));
+}
+
+.project-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+}
