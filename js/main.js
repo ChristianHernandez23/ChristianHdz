@@ -12,12 +12,6 @@ const projects = [
     desc: 'CRUD inventory app in Python with Flask and SQLite.',
     url: 'https://github.com/ChristianHernandez23/Inventario-de-Productos',
     tags: ['Python', 'Flask', 'SQLite']
-  },
-  {
-    title: 'Carro_ESP_Vigilancia',
-    desc: 'Embedded/C++ exploration for surveillance car.',
-    url: 'https://github.com/ChristianHernandez23/Carro_ESP_Vigilancia',
-    tags: ['C++', 'Embedded']
   }
 ];
 
